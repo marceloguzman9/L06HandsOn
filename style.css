@@ -1,0 +1,62 @@
+
+img {
+    
+        height: 500px;
+        width: 900px;
+        padding: 10px;
+}
+        
+
+  
+  .home{ font-family: cursive;
+    
+        font-weight: bolder;
+        font-size: 20px;
+        
+    }
+    
+
+.lessons{ font-family: cursive;
+    
+        font-weight: bolder;
+        font-size: 20px;
+}
+.about { font-family: cursive;
+    
+    font-weight: bolder;
+    font-size: 20px;
+}
+.dropdown { font-family: cursive;
+    
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+h1 { font-weight: bolder;
+    font-size: 50px;
+    width: -10px;
+  padding: px;
+  
+    font-family: cursive;
+    color: blue
+}
+
+body {
+    color: brown;
+    background-color: rgb(37, 186, 0);
+    padding: 0 ;
+    margin: 0 ;
+    height: 10 px;
+        
+    
+}
+
+  
+
+p { font-weight: bolder;
+    font-size: 50px;
+   font-family:  cursive;
+}
+form { 
+    width: 10 px;
+}
